@@ -1,7 +1,7 @@
 #include<bits/stdc++.h>
 // implementation of cut logs problem (egg drop on leetcode)
 
-/** Problem statement:
+/** Problem statement: link: https://www.codingninjas.com/studio/problems/cut-logs_8230782?challengeSlug=striver-sde-challenge&leftPanelTab=0
   K axes, N logs can be cut at a time. How many minimum tries to determine log cutting threshold?
 */
 
